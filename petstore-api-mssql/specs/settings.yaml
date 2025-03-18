@@ -3,4 +3,4 @@ specification: 1.0
 authentications: {}
 
 settings:
-  debug: true
+  apiDocs: truetrue
