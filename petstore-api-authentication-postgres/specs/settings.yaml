@@ -7,4 +7,4 @@ authentications:
     password: demo
 
 settings:
-  apiDocs: truetrue
+  apiDocs: true

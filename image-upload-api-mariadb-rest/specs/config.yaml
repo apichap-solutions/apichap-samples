@@ -53,4 +53,4 @@ datasources:
 authentications: {}
 
 settings:
-  apiDocs: truetrue
+  apiDocs: true
